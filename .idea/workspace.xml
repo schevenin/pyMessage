@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4ec6ea6-e42d-42b1-9ef6-b6622bc37e6b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bnC0SccA0jxhJNJ7ZOB8CnHsX1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="pymessage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pymessage" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pymessage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pymessage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4ec6ea6-e42d-42b1-9ef6-b6622bc37e6b" name="Default Changelist" comment="" />
+      <created>1589258248307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589258248307</updated>
+      <workItem from="1589258255195" duration="434000" />
+      <workItem from="1589258741033" duration="5993000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="195" key="GridCell.Tab.0.bottom" timestamp="1589266822947">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="195" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1589266822947" />
+    <state width="1398" height="195" key="GridCell.Tab.0.center" timestamp="1589266822946">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="195" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1589266822946" />
+    <state width="1398" height="195" key="GridCell.Tab.0.left" timestamp="1589266822945">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="195" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1589266822945" />
+    <state width="1398" height="195" key="GridCell.Tab.0.right" timestamp="1589266822946">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="195" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1589266822946" />
+    <state width="1398" height="246" key="GridCell.Tab.1.bottom" timestamp="1589264088127">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="246" key="GridCell.Tab.1.bottom/0.23.1440.828@0.23.1440.828" timestamp="1589264088127" />
+    <state width="1398" height="246" key="GridCell.Tab.1.center" timestamp="1589264088126">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="246" key="GridCell.Tab.1.center/0.23.1440.828@0.23.1440.828" timestamp="1589264088126" />
+    <state width="1398" height="246" key="GridCell.Tab.1.left" timestamp="1589264088126">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="246" key="GridCell.Tab.1.left/0.23.1440.828@0.23.1440.828" timestamp="1589264088126" />
+    <state width="1398" height="246" key="GridCell.Tab.1.right" timestamp="1589264088127">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="246" key="GridCell.Tab.1.right/0.23.1440.828@0.23.1440.828" timestamp="1589264088127" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pymessage$pymessage.coverage" NAME="pymessage Coverage Results" MODIFIED="1589266822938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
