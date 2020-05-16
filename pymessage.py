@@ -11,10 +11,7 @@ percent_finished = 0
 
 
 def count(words):
-    total = 0
-    for _ in words:
-        total += 1
-    return total
+    return len(words)
 
 
 total_words = count(list_of_words)
